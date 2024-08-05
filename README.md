@@ -4,6 +4,8 @@
 # GAS Attach Editor - Unreal Engine Plugin
 Editor Window with similar (and additional) functionality to UE command-line `ShowDebug AbilitySystem`.
 
+**FORK: Just making changes required to keep up to date with UE, including merging PRs from upstream that haven't been applied**
+
 ### Extra Features:
 - Support data view of dedicated server
 - Support active/inactive filtering
